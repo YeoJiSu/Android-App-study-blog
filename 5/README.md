@@ -25,3 +25,6 @@ Frame 레이아웃에 버튼과 이미지뷰 배치하기<br>
 ### lab5-9<br>
 Grid 레이아웃에 버튼들 배치하기<br>
 <img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-9.png" width="300">
+### kakaoTalk<br>
+카카오톡 화면 만들기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/kakaoTalk.png" width="300">

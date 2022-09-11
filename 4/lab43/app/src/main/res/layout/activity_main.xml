@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android=
+    "http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.androd.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum = "2"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3600B5"
+            android:layout_margin="10dp"
+            android:text="기본 버튼"
+            android:gravity="center"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3600B5"
+            android:layout_margin="10dp"
+            android:visibility="invisible"
+            android:text="visibility-invisible"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3600B5"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            android:text="visibility-gone"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#3600B5"
+            android:layout_margin="10dp"
+            android:visibility="visible"
+            android:text="visibility-visible"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#00FF00"
+            android:layout_margin="10dp"
+            android:enabled="true"
+            android:text="enabled-true"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#00FF00"
+            android:layout_margin="10dp"
+            android:enabled="false"
+            android:text="enabled-false"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#0000FF"
+            android:layout_margin="10dp"
+            android:clickable="true"
+            android:text="clickable-true"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#0000FF"
+            android:layout_margin="10dp"
+            android:clickable="false"
+            android:text="clickable-false"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FF00FF"
+            android:layout_margin="10dp"
+            android:rotation="20"
+            android:text="rotation"
+            android:gravity="center"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -25,6 +25,8 @@ Frame 레이아웃에 버튼과 이미지뷰 배치하기<br>
 ### lab5-9<br>
 Grid 레이아웃에 버튼들 배치하기<br>
 <img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-9.png" width="300">
-### kakaoTalk<br>
-카카오톡 화면 만들기<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/kakaoTalk.png" width="300">
+### keypad<br>
+전화 키패드 만들기 <br>
+* 숫자 입력할 때 "-" 자동으로 추가하고, delete 버튼 누를 때 "-" 자동으로 삭제되도록 구현하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/keypad.png" width="300">
+

@@ -19,3 +19,6 @@
 ### lab4-7<br>
 LEFT 또는 RIGHT 버튼으로 사진 넘겨보기<br>
 <img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-7.png" width="300">
+### kakaoTalk<br>
+카카오톡 화면 만들기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/kakaoTalk.png" width="300">

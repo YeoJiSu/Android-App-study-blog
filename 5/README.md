@@ -1,21 +1,27 @@
-### lab4-1<br>
-선형 레이아웃 만들고 버튼 배치하기<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-1.png"  width="300">
-### lab4-2<br>
-텍스트 뷰와 버튼 배치하기<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-2.png" width="300">
-### lab4-3<br>
-버튼 속성 추가<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-3.png" width="300">
-### lab4-4<br>
-두 숫자로 여러가지 계산하기<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-4.png" width="300">
-### lab4-5<br>
-버튼 클릭시 배경 색상 변경하기<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-5.png" width="300">
-### lab4-6<br>
-버튼 클릭시 다음 버튼만 보이도록하기<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-6.png" width="300">
-### lab4-7<br>
-LEFT 또는 RIGHT 버튼으로 사진 넘겨보기<br>
-<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-7.png" width="300">
+### lab5-1<br>
+버튼 두개 좌우로 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-1.png"  width="300">
+### lab5-2<br>
+버튼 두개 상하로 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-2.png" width="300">
+### lab5-3<br>
+텍스트뷰와 레이아웃 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-3.png" width="300">
+### lab5-4<br>
+가로로 꽉 차게 버튼 두개 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-4.png" width="300">
+### lab5-5<br>
+가로와 세로로 꽉 차게 버튼들과 레이아웃 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-5.png" width="300">
+### lab5-6<br>
+텍스트뷰 중앙 상단에 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-6.png" width="300">
+### lab5-7<br>
+Relative 레이아웃에 이미지뷰와 버튼들 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-7.png" width="300">
+### lab5-8<br>
+Frame 레이아웃에 버튼과 이미지뷰 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-8.png" width="300">
+### lab5-9<br>
+Grid 레이아웃에 버튼들 배치하기<br>
+<img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/5/lab5-9.png" width="300">

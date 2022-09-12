@@ -1,4 +1,4 @@
-# Intent 
+# ⚽️ Activity Component 액티비티 컴포넌트 ⚽️
 ### lab6-1<br>
 “전환”버튼을 클릭하면 MainActivity 화면에서 SubActivity 화면으로 전환.<br>
 <img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/6/lab6-1.png"  width="500">

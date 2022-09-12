@@ -1,3 +1,4 @@
+# 🎪 View Class, View Binding, Event 뷰 클래스, 뷰 바인딩, 이벤트 🎪
 ### lab4-1<br>
 선형 레이아웃 만들고 버튼 배치하기<br>
 <img src = "https://github.com/YeoJiSu/Android-App-study-blog/blob/main/image/4/lab4-1.png"  width="300">

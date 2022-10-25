@@ -29,14 +29,4 @@ SQLite, 파일 저장소, SharedPrefrences를 이용해 내부 데이터 관리�
 ## 8. Firebase🔥API
 Firebase를 이용해 데이터 저장, 업데이트, 불러오기를 해보고, GoogleMap을 이용해 지도에 내 위치를 보여주고 아이콘을 표시해봅니다.
 
-## 9. DeepLearning
-텐서플로 라이트를 이용해 딥러닝 모델 생성에 관한 실습을 합니다. 
-
-## 10. ImageClassificationApp 📱
-텐서플로 라이트 모델을 이용한 이미지 분류 어플을 개발합니다.
-
-## 11. DetectMalwareApp 📱
-텐서플로 라이트 모델을 이용한 악성코드 탐지 모델을 개발합니다.
-
-
 
